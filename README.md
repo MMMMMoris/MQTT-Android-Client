@@ -3,11 +3,12 @@
 ## Prerequisites
 
 - Programing Language: [Kotlin](https://kotlinlang.org/)
-- IDE: Android Studio
+- IDE: IntelliJ IDEA
 
 ## Libraries
 
 - [Eclipse Paho Java Client](https://github.com/eclipse/paho.mqtt.java)
+- [hannesa2 paho.mqtt.android](https://github.com/hannesa2/paho.mqtt.android)
 - [Eclipse Paho Android Service](https://github.com/eclipse/paho.mqtt.android)
 
 ## Run
